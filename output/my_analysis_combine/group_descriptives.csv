@@ -1,0 +1,7 @@
+outcome,label,group,n,mean,sd
+melody_span,Music short-term memory,musician,600,27.6175,5.9776247020421165
+melody_span,Music short-term memory,nonmusician,600,21.4775,5.108823466515557
+digit_span,Verbal short-term memory,musician,600,10.193333333333333,2.289036559232886
+digit_span,Verbal short-term memory,nonmusician,600,9.835833333333333,2.046447136386767
+spatial_span,Visuospatial short-term memory,musician,600,9.069166666666666,2.0532882473242493
+spatial_span,Visuospatial short-term memory,nonmusician,600,8.529166666666667,1.721046961385534

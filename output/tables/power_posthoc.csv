@@ -1,0 +1,19 @@
+d,tau2,k,power,simulations,method
+0.0,0.0121,33,0.0446,5000,REML Monte Carlo
+0.05,0.0121,33,0.1214,5000,REML Monte Carlo
+0.1,0.0121,33,0.347,5000,REML Monte Carlo
+0.2,0.0121,33,0.8958,5000,REML Monte Carlo
+0.3,0.0121,33,0.9974,5000,REML Monte Carlo
+0.5,0.0121,33,1.0,5000,REML Monte Carlo
+0.0,0.1,33,0.0576,5000,REML Monte Carlo
+0.05,0.1,33,0.1024,5000,REML Monte Carlo
+0.1,0.1,33,0.2434,5000,REML Monte Carlo
+0.2,0.1,33,0.6716,5000,REML Monte Carlo
+0.3,0.1,33,0.96,5000,REML Monte Carlo
+0.5,0.1,33,0.9998,5000,REML Monte Carlo
+0.0,0.2,33,0.0586,5000,REML Monte Carlo
+0.05,0.2,33,0.0952,5000,REML Monte Carlo
+0.1,0.2,33,0.1878,5000,REML Monte Carlo
+0.2,0.2,33,0.5324,5000,REML Monte Carlo
+0.3,0.2,33,0.8528,5000,REML Monte Carlo
+0.5,0.2,33,0.998,5000,REML Monte Carlo
